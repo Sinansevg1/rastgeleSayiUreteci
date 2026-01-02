@@ -11,5 +11,3 @@ Bu proje, 64-bit XorShift* pseudo rastgele sayı üreteci (PRNG) sağlayan küç
 - 64-bit XorShift* algoritması
 - `seed` parametresiyle deterministik çıktı veya zaman tabanlı rastgele tohum
 - Kolay CLI kullanımı ve birkaç yardımcı metot (`randint`, `random`)
-
-Ge
